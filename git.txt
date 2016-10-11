@@ -1,0 +1,6 @@
+一、配置
+1、git config --global user.name "自己设的用户名"
+2、git config --global user.email "自己的邮箱"
+
+二、操作
+1、创建库（目录）：
